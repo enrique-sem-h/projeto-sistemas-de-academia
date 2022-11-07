@@ -44,4 +44,4 @@ The project central idea is a system capable of managing the user's frequency an
 Target audience: The target audience in question would be gyms looking to automatize their management system, that way facilitating an interaction between user and gym
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-https://img.shields.io/github/contributors/enrique-sem-h/projeto-sistemas-de-academia?color=blue&style=for-the-badge
+![Contributors](https://img.shields.io/github/contributors/enrique-sem-h/projeto-sistemas-de-academia?color=blue&style=for-the-badge)
