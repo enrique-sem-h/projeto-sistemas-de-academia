@@ -7,8 +7,8 @@ English Version [Here](*english)
 ### Alunos
 ```
 Enrique Carvalho
-Mariana Nunes
-Gabriel Santos
+Mariana Terol
+Gabriel Sousa
 Jhenifer Rodrigues
 ```
 
@@ -30,8 +30,8 @@ Repository created for storing project #2 archives, made by the interdisciplinar
 ### Students
 ```
 Enrique Carvalho
-Mariana Nunes
-Gabriel Santos
+Mariana Terol
+Gabriel Sousa
 Jhenifer Rodrigues
 ```
 
