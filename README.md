@@ -5,14 +5,12 @@ English Version [Here](*English)
 > Status: Em desenvolvimento ⚠️
 
 ### Alunos
-```
-Enrique Carvalho
-Mariana Terol
-Gabriel Sousa
-Jhenifer Rodrigues
-```
+| [<img src="https://avatars.githubusercontent.com/u/111439330?v=4" width=115><br><sub>Enrique Lima Carvalho</sub>](https://github.com/enrique-sem-h) |  [<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br><sub>Gabriel Kalebe Dos Santos Sousa</sub>](https://github.com/gkalebe) |  [<img src="https://avatars.githubusercontent.com/u/112129761?v=4" width=115><br><sub>Jhenifer Rodrigues Da Silva</sub>](https://github.com/jheni-rodrigues22) | [<img src="https://avatars.githubusercontent.com/u/111513262?v=4" width=115><br><sub>Mariana Nunes Terol</sub>](https://github.com/MariTerol) |
+| :---: | :---: | :---: |:---: |
 
-***Professora:*** Joyce Siqueira
+### Professora
+| [<img src="https://avatars.githubusercontent.com/u/27175429?v=4" width=115><br><sub>Joyce Siqueira</sub>](https://github.com/joycitta-siqueira) |
+| :---: |
 
 ### Ideia do projeto
 Pensando em redes de academia nomeadas que possuem um sistema próprio, concluímos que poderíamos desenvolver um sistema, seguido de um serviço prestado destinado às academias menores, pois notamos um índice de competição desbalanceado entre uma rede multimilionária, que oferece diversos serviços altamente tecnológicos em relação à concorrência, que muitas vezes ainda utiliza o papel para fornecer seus serviços aos clientes.
@@ -28,14 +26,12 @@ Repository created for storing project #2 archives, made by the interdisciplinar
 > Status: In development ⚠️
 
 ### Students
-```
-Enrique Carvalho
-Mariana Terol
-Gabriel Sousa
-Jhenifer Rodrigues
-```
+| [<img src="https://avatars.githubusercontent.com/u/111439330?v=4" width=115><br><sub>Enrique Lima Carvalho</sub>](https://github.com/enrique-sem-h) |  [<img src="https://avatars.githubusercontent.com/u/111618683?v=4" width=115><br><sub>Gabriel Kalebe Dos Santos Sousa</sub>](https://github.com/gkalebe) |  [<img src="https://avatars.githubusercontent.com/u/112129761?v=4" width=115><br><sub>Jhenifer Rodrigues Da Silva</sub>](https://github.com/jheni-rodrigues22) | [<img src="https://avatars.githubusercontent.com/u/111513262?v=4" width=115><br><sub>Mariana Nunes Terol</sub>](https://github.com/MariTerol)|
+| :---: | :---: | :---: |:---: |
 
-***Teacher:*** Joyce Siqueira
+***Teacher:*** 
+| [<img src="https://avatars.githubusercontent.com/u/27175429?v=4" width=115><br><sub>Joyce Siqueira</sub>](https://github.com/joycitta-siqueira) |
+| :---: |
 
 ### Project Idea
 Thinking of big gym networks that have their own system, we came to conclude that we could develop one, followed by a service provided to smaller gyms, due to an observation we made on an unbalanced competition index between a multimillionaire network, that offers a handful of highly technological services compared to the competition, that sometimes still uses paper to provide their services to their clients.
