@@ -1,6 +1,6 @@
 # Repositório criado para armazenamento dos arquivos do projeto 2, realizado pelos alunos de projeto interdisciplinar 1 na UCB
 
-English Version [Here](*English)
+English Version [Here](English)
 
 > Status: Em desenvolvimento ⚠️
 
@@ -19,7 +19,7 @@ English Version [Here](*English)
 <p>Público-alvo: O público alvo em questão seriam, academias que queiram automatizar o seu sistema de gerenciamento de alunos, assim gerando uma maior praticidade entre aluno e academia.</p></h>
 
 
-# English
+### English
 
 Repository created for storing project #2 archives, made by the interdisciplinary project 1 students at UCB
 
