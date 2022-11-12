@@ -1,5 +1,7 @@
 # Repositório criado para armazenamento dos arquivos do projeto 2, realizado pelos alunos de projeto interdisciplinar 1 na UCB
 
+<img src="https://user-images.githubusercontent.com/111618683/201448168-d1b90748-20cb-4c3e-814b-62ef3b28886c.jpg" width="200" height="200" />
+
 English Version [Here](*English)
 
 > Status: Em desenvolvimento ⚠️
