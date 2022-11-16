@@ -6,33 +6,33 @@
 
 int main() {
 	setlocale(LC_ALL, "Portuguese");
-	char nomeProfessor[30], nomeAluno[30], sexo, titulacao, cpf[15], plano[10], confirmacao;
-	int idade, matriculaGerada, telefone, opcao, frequenciaAluno=0, contador, treinos=1;
+	char nomeProfessor[30], nomeAluno[30], sexo, titulacao, cpf[15], plano[10], confirmacao, telefone;
+	int idade, matriculaGerada, opcao, frequenciaAluno=0, contador, treinos=1;
 	srand(time(NULL));
 
-	printf("Digite o numero para a opcao desejada:\n1. Cadastrar professor\n2. Cadastrar aluno\n");
+	printf("Digite o numero para a opcao desejada:\n1. Cadastrar funcionário\n2. Cadastrar aluno\n");
 	printf("Opcao: ");
 	scanf("%d", &opcao);
 
 	switch(opcao) {
 		case 1:
-			printf("Digite o nome do professor: ");
+			printf("Digite o nome do funcionário: ");
 			scanf(" %[^\n]s", &nomeProfessor);
 
 			printf("Informe o sexo: ");
 			scanf(" %c", &sexo);
 
 			printf("Digite o telefone: ");
-			scanf("%d", &telefone);
+			scanf(" %[^\n]s", &telefone);
 
 			printf("Informe a idade: ");
 			scanf("%d", &idade);
 
-			printf("Informe a titulacao: ");
+			printf("Informe a titulação: ");
 			scanf("%s", &titulacao);
 
 			matriculaGerada = (rand() % 999999) + 100000;
-			printf("A matricula gerada foi: %d\n", matriculaGerada);
+			printf("A matrícula gerada foi: %d\n", matriculaGerada);
 			
 			break;
 
@@ -47,7 +47,7 @@ int main() {
 			scanf("%s", &cpf);
 
 			printf("Informe o telefone: ");
-			scanf("%d", &telefone);
+			scanf(" %[^\n]s", &telefone);
 
 			printf("*Plano A: Frango\n");
 			printf("*Plano B: Maromba\n");
@@ -55,10 +55,10 @@ int main() {
 			scanf("%s", &plano);
 
 			matriculaGerada = (rand() % 999999) + 100000;
-			printf("A matricula gerada foi: %d\n", matriculaGerada);
+			printf("A matrícula gerada foi: %d\n", matriculaGerada);
 
 			printf("\n|----------------------------------------|\n");
-			printf("|----------Frequencia do Aluno-----------|\n");
+			printf("|----------Frequência do Aluno-----------|\n");
 			printf("|----------------------------------------|\n");
 			
 			for(contador=1; contador <=30; contador++){
@@ -72,14 +72,14 @@ int main() {
 						
 					case 2:
 						printf("\n|-------------------------------------------------------|\n");
-						printf("|-----Terca-feira: treino de biceps, costas e ombro-----|\n");
+						printf("|-----Terca-feira: treino de bíceps, costas e ombro-----|\n");
 						printf("|-------------------------------------------------------|");
 						printf("\nRosca direta com barra\nElevacao frontal com halteres\nRemada\n");
 						break;
 						
 					case 3:
 						printf("\n|--------------------------------------------------|\n");
-						printf("|-----Quarta-feira: treino de abdomen e cardio-----|\n");
+						printf("|-----Quarta-feira: treino de abdômen e cardio-----|\n");
 						printf("|--------------------------------------------------|");
 						printf("\nEliptico\nAbdominal Remador\nPrancha Vertical\n");
 						break;
@@ -93,7 +93,7 @@ int main() {
 						
 					case 5:
 						printf("\n|------------------------------------------------|\n");
-						printf("|-----Sexta-feira: treino de peito e triceps-----|\n");
+						printf("|-----Sexta-feira: treino de peito e tríceps-----|\n");
 						printf("|------------------------------------------------|");
 						printf("\nSupino Reto\nTriceps Corda\nTriceps invertida\n");
 						break;		
@@ -103,7 +103,7 @@ int main() {
 					if(treinos>=1 && treinos<=5){
 						printf("*Compareceu ao treino?\nDigite S para SIM e N para NAO\n ");
 						scanf(" %c", &confirmacao);
-						if(confirmacao=='S'){
+						if(confirmacao=='S' || confirmacao == 's'){
 							frequenciaAluno++;
 						}
 					}
@@ -115,6 +115,6 @@ int main() {
 					treinos++;
 					
 			}
-			printf("Frequencia: %d\n", frequenciaAluno);
+			printf("Frequência: %d\n", frequenciaAluno);
 	}
 }
