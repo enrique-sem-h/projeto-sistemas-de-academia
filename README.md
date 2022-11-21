@@ -23,7 +23,7 @@ English Version [Here](*English)
 
 ### English
 
-Repository created for storing project #2 archives, made by the interdisciplinary project 1 students at UCB
+### Repository created for storing project #2 archives, made by the interdisciplinary project 1 students at UCB
 
 > Status: In development ⚠️
 
