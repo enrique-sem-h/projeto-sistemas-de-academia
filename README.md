@@ -18,7 +18,7 @@ English Version [Here](*English)
 <h4 align="justify"><p>Pensando em redes de academia nomeadas que possuem um sistema próprio, concluímos que poderíamos desenvolver um sistema, seguido de um serviço prestado destinado às academias menores, pois notamos um índice de competição desbalanceado entre uma rede multimilionária, que oferece diversos serviços altamente tecnológicos em relação à concorrência, que muitas vezes ainda utiliza o papel para fornecer seus serviços aos clientes.</p>
 <hp>A ideia central do projeto é um sistema capaz de gerenciar a frequência e os treinos dos alunos, assim como suas capacidades físicas e observações, seria implementado como parte desse sistema, um aplicativo mobile para que os alunos matriculados pudessem fazer seus treinos e acompanhar seu progresso em geral, já como parte do serviço, também seriam fornecidos equipamentos de catraca separadamente, essas serviriam para monitorar o acompanhamento do aluno e armazenar essas informações em um banco de dados, que estaria ligado diretamente ao sistema.</p>
 
-<p>Público-alvo: O público alvo em questão seriam, academias que queiram automatizar o seu sistema de gerenciamento de alunos, assim gerando uma maior praticidade entre aluno e academia.</p></h>
+<p>Público-alvo: O público alvo em questão seriam, academias que queiram automatizar o seu sistema de gerenciamento de alunos, assim gerando uma maior praticidade entre aluno e academia.</p></h4>
 
 
 ### English
