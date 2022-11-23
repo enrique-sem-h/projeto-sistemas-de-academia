@@ -27,7 +27,7 @@ int main() {
 	srand(time(NULL));
 
 	do{
-	printf("Digite o numero para a opcao desejada:\n1. Cadastrar funcionário\n2. Cadastrar aluno\n3. Consultar funcionários\n4. Consultar alunos\n");
+	printf("\nDigite o numero para a opcao desejada:\n1. Cadastrar funcionário\n2. Cadastrar aluno\n3. Consultar funcionários\n4. Consultar alunos\n");
 	printf("Opcao: ");
 	scanf("%d", &opcao);
 
@@ -42,23 +42,26 @@ int main() {
 			scanf(" %c", &func[i].sexo);
 			//scanf(" %c", &sexo);
 
+			fflush(stdin);
 			printf("Digite o telefone: ");
 			scanf(" %[^\n]s", &func[i].telefone);
+			fflush(stdin);
 			//scanf(" %[^\n]s", &telefone);
 
 			printf("Informe a idade: ");
 			scanf("%d", &func[i].idade);
 			//scanf("%d", &idade);
 
+			fflush(stdin);
 			printf("Informe a titulação: ");
-			scanf(" %s", &func[i].titulacao);
+			scanf(" %[^\n]s", &func[i].titulacao);
 			//scanf(" %s", &titulacao);
 			
 			func[i].matriculaGerada = (rand() % 999999) + 100000;
 			printf("A matrícula gerada foi: %d\n", func[i].matriculaGerada);
 			
 			i++;
-			printf("Digite S para parar o cadastro ou R para Fazer outro\n");
+			printf("Digite S para parar o cadastro ou R para fazer outro\n");
 			scanf(" %c", &b);
 			}while(b != 'S' && b != 's');
 			
@@ -147,7 +150,7 @@ int main() {
 			printf("Frequência: %d\n", aluno[iA].frequenciaAluno);
 			
 			iA++;
-			printf("Digite S para parar o cadastro ou R para Fazer outro\n");
+			printf("Digite S para parar o cadastro ou R para fazer outro\n");
 			scanf(" %c", &c);
 			}while(c != 'S' && c != 's');
 			break;
@@ -195,7 +198,7 @@ int main() {
 			break;
 
 		default:
-			printf("Opcao invalida");
+			printf("Opcao invalida\n");
 			break;
 	}
 	}while(a == 'R' || a == 'r');
