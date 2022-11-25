@@ -52,8 +52,8 @@ int main() {
 			scanf("%d", &func[i].idade);
 			//scanf("%d", &idade);
 
-			fflush(stdin);
 			printf("Informe a titulação: ");
+			fflush(stdin);
 			scanf(" %[^\n]s", &func[i].titulacao);
 			//scanf(" %s", &titulacao);
 			
